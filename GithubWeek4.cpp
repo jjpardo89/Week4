@@ -37,7 +37,7 @@ int main(int argc, char* argv[])
 
     // Declaring 'letter' to define each vowel. Since we need to count only 1 character at a time, we will declare letter as char to provide proper, indivisual calculations
     char letter;
-    //Read First Charcater
+
     inFile.get(letter);
 
     // Looping through the file, Constitution_of_the_United_States.txt, until each vowel is counted.
